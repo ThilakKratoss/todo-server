@@ -1,27 +1,27 @@
 [
   {
     "id": 1,
-    "taskName": "Hit the gym",
-    "isDone": false
+    "description": "Hit the gym",
+    "isCompleted": false
   },
   {
     "id": 2,
-    "taskName": "Pay Bills",
-    "isDone": false
+    "description": "Pay Bills",
+    "isCompleted": false
   },
   {
     "id": 3,
-    "taskName": "Meet George",
-    "isDone": false
+    "description": "Meet George",
+    "isCompleted": false
   },
   {
     "id": 4,
-    "taskName": "Buy Eggs",
-    "isDone": false
+    "description": "Buy Eggs",
+    "isCompleted": false
   },
   {
     "id": 5,
-    "taskName": "Read a Book",
-    "isDone": false
+    "description": "Read a Book",
+    "isCompleted": false
   }
 ]
