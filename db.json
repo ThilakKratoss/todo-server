@@ -23,15 +23,5 @@
     "id": 5,
     "taskName": "Read a Book",
     "isDone": false
-  },
-  {
-    "id": 6,
-    "taskName": "Organize Office",
-    "isDone": false
-  },
-  {
-    "id": 7,
-    "taskName": "Book Tickets",
-    "isDone": false
   }
 ]
